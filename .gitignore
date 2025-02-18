@@ -1,0 +1,8 @@
+# Ignore environment variables
+backend/.env
+
+# Ignore node_modules for frontend
+frontend/node_modules/
+
+# Ignore build artifacts
+frontend/build/
